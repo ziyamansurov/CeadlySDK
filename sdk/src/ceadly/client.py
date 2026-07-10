@@ -20,7 +20,7 @@ from ceadly.exceptions import (
 
 logger = logging.getLogger(__name__)
 
-DEFAULT_API_URL = "http://localhost:8000"
+DEFAULT_API_URL = "https://api.ceadly.me"
 
 # Server error codes that map to CeadlyServiceUnavailable (all except agent_suspended).
 _SERVICE_UNAVAILABLE_CODES = frozenset(
