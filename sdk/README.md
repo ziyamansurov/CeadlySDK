@@ -16,4 +16,4 @@ def transfer_funds(amount: float, account_id: str):
     ...
 \`\`\`
 
-Full docs: https://github.com/ziyamansurov/Ceadly
+Full docs: https://ceadly.me/integration
